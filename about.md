@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+UCLA Statistics Student, Graduated in 2022
+
+Interested in Machine Learning, Artificial Intelligence, Algorithm Optimization
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Cat Lover
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[serislv0608@gmail.com](mailto:serislv0608@gmail.com)
